@@ -3,6 +3,13 @@
 primer programa en node
 
 
+instalar modulos 
+
+``` 
+npm install 
+
+```
+
 ```
 Options:
       --help     Show help                                             [boolean]
